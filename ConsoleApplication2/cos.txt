@@ -1,0 +1,9 @@
+
+Pinging wp.pl [212.77.98.9] with 32 bytes of data:
+Reply from 212.77.98.9: bytes=32 time=17ms TTL=56
+Reply from 212.77.98.9: bytes=32 time=14ms TTL=56
+
+Ping statistics for 212.77.98.9:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 17ms, Average = 15ms
